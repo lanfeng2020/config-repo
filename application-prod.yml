@@ -3,7 +3,7 @@ application: prod
 info:
   description: lanfeng-springcloud-config-demo
   url: https://github.com/lanfeng2020/config-repo
-  application: prod
+  application: prod1
 eureka:
   client:
     serviceUrl:
