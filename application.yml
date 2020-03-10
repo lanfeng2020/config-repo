@@ -5,7 +5,3 @@ info:
   description: lanfeng-springcloud-config-demo
   url: https://github.com/lanfeng2020/config-repo
   application: default-1
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:9999/eureka/
