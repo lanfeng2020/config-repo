@@ -1,6 +1,0 @@
-#读取文件路径
-ReadPomUrl: http://192.168.34.190:10008/xcode/readPom
-SavePomUrl: http://192.168.34.190:10008/xcode/savePom
-xCodeUrl: http://192.168.34.190:10015/xcode/gen?planUuid=
-#mybatis:
-#  mapper-locations: classpath:test/*Mapper.xml
