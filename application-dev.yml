@@ -1,0 +1,12 @@
+env: ${ENV}
+
+swagger:
+  enabled: true
+
+s3:
+  server:
+    url: http://192.168.32.46:10010
+    tmp-path: E:\QMDownload\nifflerFiles
+  bucket:
+    name: dctest
+    prefix: thirdparty/lawxp/data
